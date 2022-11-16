@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31708971857",
+    "project_id": "proxycommerce-7d5c5",
+    "storage_bucket": "proxycommerce-7d5c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31708971857:android:9011177dfb805ee3770970",
+        "android_client_info": {
+          "package_name": "com.legittechs.proxycommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31708971857-ob0enb81l84sknpis1h028jqdmc0tp0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDx_vm2g6xSe5-rNbFuW9QdeaaEIj9_xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31708971857-ob0enb81l84sknpis1h028jqdmc0tp0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
